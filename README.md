@@ -11,7 +11,6 @@ manteniendo sincronizado el borde de selección.
 
 ## 📸 Vista del proyecto
 
-*(Aquí coloca tu imagen del proyecto)*
 
 ![Vista del proyecto](img/carrusel_v2.0_daldeving.PNG)
 
